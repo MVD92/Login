@@ -1,0 +1,76 @@
+#main-wrapper
+/*this is for the login form division*/
+{
+	width: 350px;
+	margin: 10 auto;
+	background: white;
+	padding: 15px;
+	opacity: 0.9;
+	background: linear-gradient(to bottom, black 0%,black 87%,#000000 87%,white 30%,white 100%);	
+}
+#main-wrapper2
+/*this is for the registration form division*/
+{
+	width: 350px;
+	margin: 10 auto;
+	background: white;
+	padding: 5px;
+	opacity: 0.9;
+	/*background: linear-gradient(to bottom, black 0%,black 90%,#000000 90%,white 30%,white 100%);	*/
+}
+
+.avatar
+/*this is for the bg image*/
+
+{
+	width: 100px;
+	text-align: center;
+	background-repeat: no-repeat;
+}
+/*not useful
+.icon
+{
+	background-image: url("imgs/user.png");
+}
+.user
+{
+	width: 10px;
+	text-align: center;
+}*/
+.myform
+/*for the div in each form*/
+{
+	width: 250px;
+	margin:0 auto;
+}
+.inputvalues
+/*for the container*/
+{
+	width: 250px;
+	margin: 0 auto;
+	padding: 5px; 
+	/*border-radius: 20px;*/
+	border-left-width: 4px;
+	border-left-color: #2ecc71;	
+}
+#login_bt
+/*for login form*/
+{
+	width: 150px;
+	margin:0 auto;
+	background: #2980b9;
+	padding: 5px;
+	border-radius: 20px;
+	background-image: linear-gradient(#1E90FF, #00BFFF, #1E90FF);
+	
+}
+#signup_bt
+/*for registration form*/
+{
+	width: 150px;
+	margin:0 auto;
+	background: #2980b9;
+	padding: 5px;
+	border-radius: 20px;
+	background-image: linear-gradient(#1E90FF, #00BFFF, #1E90FF)
+}
